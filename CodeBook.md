@@ -14,7 +14,7 @@ The submitted skript in the file run_analysis.R performes the following steps:
 subject - The ID of the test subject</br>
 activity - The type of activity performed when the corresponding measurements were taken
 
-#### Measurements 
+#### Measures
 tBodyAccMeanX</br>
 tBodyAccMeanY</br>
 tBodyAccMeanZ</br>
