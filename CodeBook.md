@@ -7,7 +7,7 @@ The submitted skript in the file run_analysis.R performes the following steps:
 3. Load the relevant measures from the train and the test data set and combines it with the activities and subjects
 4. Joins the two datasets 
 5. convert activity and subject data into factors 
-6. Write a tidy data set called toidy
+6. Write a tidy data set called 'tidy'
 
 ### The tidy dataset contains the following data
 #### Identifiers
