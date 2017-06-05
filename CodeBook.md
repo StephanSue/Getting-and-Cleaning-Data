@@ -1,6 +1,6 @@
 ## Instruction
 
-The submitted skript in the file run_analysis.R performes the following steps: 
+The submitted skript in the file Getting_and_Cleaning_Data_Assignement.R performes the following steps: 
 
 1. Load the required package and download the data from the website
 2. Load activity lables and features from the provided files in the sub folders and defines the relevant measures 
