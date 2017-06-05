@@ -1,6 +1,6 @@
-## Instruction
+# Instruction
 
-The submitted skript in the file Getting_and_Cleaning_Data_Assignement.R performes the following steps: 
+#### The submitted skript in the file Getting_and_Cleaning_Data_Assignement.R performes the following steps: 
 
 1. Load the required package and download the data from the website
 2. Load activity lables and features from the provided files in the sub folders and defines the relevant measures 
@@ -9,12 +9,12 @@ The submitted skript in the file Getting_and_Cleaning_Data_Assignement.R perform
 5. convert activity and subject data into factors 
 6. Write a tidy data set called 'tidy'
 
-### The tidy dataset contains the following data
-#### Identifiers
+#### The tidy dataset contains the following data
+##### Identifiers
 subject - The ID of the test subject</br>
 activity - The type of activity performed when the corresponding measurements were taken
 
-#### Measures
+##### Measures
 tBodyAccMeanX</br>
 tBodyAccMeanY</br>
 tBodyAccMeanZ</br>
@@ -95,7 +95,7 @@ fBodyBodyGyroJerkMagMean</br>
 fBodyBodyGyroJerkMagStd</br>
 fBodyBodyGyroJerkMagMeanFreq</br>
 
-#### Activity Labels
+##### Activity Labels
 WALKING (value 1): subject was walking during the test</br>
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test</br>
 WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test</br>
